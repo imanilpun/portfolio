@@ -1,6 +1,6 @@
 # Portfolio
 
-This is my simple static portfolio with particles JS influence by [Marc Brüderlin](https://github.com/marcbruederlin/particles.js).  
+This is my simple static [portfolio](https://imanilpun.github.io/portfolio/) with particles JS influence by [Marc Brüderlin](https://github.com/marcbruederlin/particles.js).  
 
 [<img src="http://i.giphy.com/CPEar2kArhFny.gif"/>](https://marcbruederlin.github.io/particles.js/)
 
