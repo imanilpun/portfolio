@@ -31,7 +31,7 @@ There is mainly three folder and files:
 5. Readme file etc...
 
 ```
-[<img src="img/folder.png" width="100">]
+<img src="img/folder.png" wide="500">
 
 ## Todos
 
