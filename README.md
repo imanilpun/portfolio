@@ -1,6 +1,6 @@
 # Portfolio
 
-This is my simple static [portfolio](https://imanilpun.github.io/portfolio/) with particles JS influence by [Marc Brüderlin](https://github.com/marcbruederlin/particles.js).  
+This is my simple static portfolio [https://imanilpun.github.io/portfolio/](https://imanilpun.github.io/portfolio/) with particles JS influence by [Marc Brüderlin](https://github.com/marcbruederlin/particles.js).  
 
 [<img src="http://i.giphy.com/CPEar2kArhFny.gif"/>](https://marcbruederlin.github.io/particles.js/)
 
@@ -8,7 +8,7 @@ This is my simple static [portfolio](https://imanilpun.github.io/portfolio/) wit
 
 This portfolio page contain social page link with CSS 3D hover effects. Inaddition, Type JS is inspired by [bootstrapmade Folio](https://bootstrapmade.com/demo/themes/Folio/index.html). Moreover, Google map is added at footer where I'm currently living.
 
-[<img src="http://i.giphy.com/CPEar2kArhFny.gif"/>](https://marcbruederlin.github.io/particles.js/)
+[<img src="img/background.png"/>](https://imanilpun.github.io/portfolio/) []()
 
 ## File Path
 
