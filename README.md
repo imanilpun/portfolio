@@ -8,7 +8,7 @@ This is my simple static portfolio [https://imanilpun.github.io/portfolio/](http
 
 This portfolio page contain social page link with CSS 3D hover effects. Inaddition, Type JS is inspired by [bootstrapmade Folio](https://bootstrapmade.com/demo/themes/Folio/index.html). Moreover, Google map is added at footer where I'm currently living.
 
-[<img src="img/background.png"/>](https://imanilpun.github.io/portfolio/) []()
+[<img src="img/background.png"/>](https://imanilpun.github.io/portfolio/) 
 
 ## File Path
 
